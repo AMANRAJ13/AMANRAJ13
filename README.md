@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 - 🔭 Working on **Full-Stack MERN Projects**  
 - 🌱 Learning **Next.js & Cloud Deployment**  
 - 💬 Ask me about **React, Node, JS, APIs, Databases**  
-- 📫 Reach me at: **amanraj1332004@gmail.com**  
+- 📫 Reach me at: **amanraj110803@gmail.com**  
 - 🔗 LinkedIn: **https://www.linkedin.com/in/aman-raj-20b0241b8/**  
 
 ---
