@@ -1,6 +1,79 @@
 ## Hi there 👋
 
-<!--
+<!--# Hi, I'm Aman Raj 👋  
+### Full-Stack Developer | MERN | Problem Solver  
+
+Welcome to my GitHub!  
+I love building scalable web applications, solving problems, and learning new technologies every day.
+
+---
+
+## 🚀 About Me
+- 🔭 I’m currently working on: Full-Stack Projects (MERN)
+- 🌱 Learning Next.js & Cloud Deployment  
+- 💬 Ask me about: JavaScript, React, Node, APIs, DB design  
+- 📫 How to reach me: **amanraj1332004@gmail.com**  
+- 🌐 LinkedIn: www.linkedin.com/in/aman-raj-20b0241b8  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- React.js  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+- Bootstrap  
+
+### **Backend**
+- Node.js  
+- Express.js  
+- REST APIs  
+- Authentication (JWT, OAuth)
+
+### **Databases**
+- MongoDB  
+- SQL / MySQL  
+
+### **Tools & Platforms**
+- Git & GitHub  
+- Postman  
+- VS Code  
+- npm / yarn  
+- Thunder Client  
+
+### **Languages**
+- C++  
+- JavaScript  
+- Python (Basics)
+
+---
+
+## 📚 Projects
+- 🔹 **E-commerce Web App (MERN)**  
+- 🔹 **Authentication System (JWT + Cookies)**  
+- 🔹 **Student Management System**  
+- 🔹 **Portfolio Website**
+
+---
+
+## 📈 GitHub Stats
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMANRAJ13&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMANRAJ13&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+🔗 **LinkedIn:** www.linkedin.com/in/aman-raj-20b0241b8  
+📧 **Email:** amanraj1332004@gmail.com  
+
+---
+
+⭐ **Feel free to explore my repositories and drop a star if you like something!**
+
 **AMANRAJ13/AMANRAJ13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
