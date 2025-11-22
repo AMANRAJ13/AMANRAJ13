@@ -14,7 +14,7 @@
 
 ---
 
-# 🧊 **About Me (Glass Card)**
+# 🧊 **About Me**
 
 <div align="center">
 
