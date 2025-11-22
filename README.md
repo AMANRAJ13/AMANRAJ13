@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi, I'm Aman Raj 👋  
+<!--# Hi, I'm Aman Raj 
 ### Full-Stack Developer | MERN | Problem Solver  
 
 Welcome to my GitHub!  
@@ -78,7 +78,7 @@ I love building scalable web applications, solving problems, and learning new te
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
