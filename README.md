@@ -9,7 +9,7 @@
 
 <!-- 🌌 AI Generated Banner Placeholder -->
 <p align="center">
-  <img src="https://i.imgur.com/qEXIfIq.jpeg" width="900" style="border-radius: 20px;" />
+  
 </p>
 
 ---
@@ -17,7 +17,7 @@
 # 🧊 **About Me (Glass Card)**
 
 <div align="center">
-  <img src="https://i.imgur.com/lX6lR2v.png" width="120"/>
+
 </div>
 
 <div align="center">
